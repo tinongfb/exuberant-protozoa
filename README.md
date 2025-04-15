@@ -9,5 +9,6 @@ A simple API that returns a friendly JSON message using Flask.
 3. Run the app: `python app.py`
 4. Visit: `http://localhost:5000/api/hello`
 
+## port is 5000
 
 ##############################
